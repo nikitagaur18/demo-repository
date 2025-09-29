@@ -1,4 +1,4 @@
-THIS IS THE FIRST FEATURE BRANCH
+THIS IS THE MAIN BRANCH
 
 # Salesforce DX Project: Next Steps
 
